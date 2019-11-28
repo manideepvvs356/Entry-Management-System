@@ -1,0 +1,33 @@
+body{
+	background-image:url("images.jpg");
+	background-size:cover;
+	background-position:center;
+	background-color: #cccccc;
+}
+h2{
+	color:white;
+	
+}
+label{
+	color:white;
+	
+}
+.login-box{
+	max-width:700px;
+	float:none;
+	margin:150px auto;
+}
+.login-left{
+	background:rgba(211,211,211,0.5);
+	padding:60px;
+}
+.login-right{
+	background:rgba(211,211,211,0.5);
+	padding:60px;
+}
+.login-right .a{
+	color:black;
+}
+.form-control{
+	background-color:rgba(211,211,211,0.5) !important;
+}
